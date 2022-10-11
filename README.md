@@ -4,4 +4,4 @@
 
 #Репозиторий в процессе написания
 
-https://img.shields.io/badge/-DLE%2015.*-brightgreen
+<img src="https://img.shields.io/badge/-DLE%2015.*-brightgreen">
